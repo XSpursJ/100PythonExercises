@@ -31,3 +31,5 @@ else:
 
 
 #testing checkout in git plus
+
+#testing merging 2 different branches
