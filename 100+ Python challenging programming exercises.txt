@@ -724,7 +724,7 @@ print "%s name is %s" % (Person.name, nico.name)
 #----------------------------------------#
 
 #----------------------------------------#
-Question:
+Question 26:
 Define a function which can compute the sum of two numbers.
 
 Hints:
@@ -737,7 +737,7 @@ def SumFunction(number1, number2):
 print SumFunction(1,2)
 
 #----------------------------------------#
-Question:
+Question 27:
 Define a function that can convert a integer into a string and print it in console.
 
 Hints:
@@ -752,7 +752,7 @@ printValue(3)
 
 
 #----------------------------------------#
-Question:
+Question 27:
 Define a function that can convert a integer into a string and print it in console.
 
 Hints:
@@ -768,7 +768,7 @@ printValue(3)
 #----------------------------------------#
 2.10
 
-Question:
+Question 28:
 Define a function that can receive two integral numbers in string form and compute their sum and then print it in console.
 
 Hints:
@@ -803,7 +803,7 @@ printValue("3","4") #34
 2.10
 
 
-Question:
+Question 29:
 Define a function that can accept two strings as input and print the string with maximum length in console. If two strings have the same length, then the function should print al l strings line by line.
 
 Hints:
@@ -830,7 +830,7 @@ printValue("one","three")
 #----------------------------------------#
 2.10
 
-Question:
+Question 30:
 Define a function that can accept an integer number as input and print the "It is an even number" if the number is even, otherwise print "It is an odd number".
 
 Hints:
@@ -851,7 +851,7 @@ checkValue(7)
 #----------------------------------------#
 2.10
 
-Question:
+Question 31:
 Define a function which can print a dictionary where the keys are numbers between 1 and 3 (both included) and the values are square of keys.
 
 Hints:
@@ -877,7 +877,7 @@ printDict()
 #----------------------------------------#
 2.10
 
-Question:
+Question 32:
 Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys.
 
 Hints:
