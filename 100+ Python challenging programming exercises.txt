@@ -1370,6 +1370,7 @@ raise RuntimeError('something wrong')
 
 
 #----------------------------------------#
+Q54
 Write a function to compute 5/0 and use try/except to catch the exceptions.
 
 Hints:
@@ -1392,6 +1393,7 @@ finally:
 
 
 #----------------------------------------#
+Q55
 Define a custom exception class which takes a string message as attribute.
 
 Hints:
@@ -1413,7 +1415,7 @@ class MyError(Exception):
 error = MyError("something wrong")
 
 #----------------------------------------#
-Question:
+Question 56:
 
 Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only.
 
@@ -1441,7 +1443,7 @@ print r2.group(1)
 
 
 #----------------------------------------#
-Question:
+Question 57:
 
 Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the company name of a given email address. Both user names and company names are composed of letters only.
 
