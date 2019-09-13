@@ -1760,7 +1760,7 @@ print ",".join(values)
 
 #----------------------------------------#
 
-Question:
+Question 68:
 
 
 Please write assert statements to verify that every number in the list [2,4,6,8] is even.
@@ -1779,7 +1779,7 @@ for i in li:
 
 
 #----------------------------------------#
-Question:
+Question 69:
 
 Please write a program which accepts basic mathematic expression from console and print the evaluation result.
 
@@ -1803,7 +1803,7 @@ print eval(expression)
 
 
 #----------------------------------------#
-Question:
+Question 70:
 
 Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list.
 
