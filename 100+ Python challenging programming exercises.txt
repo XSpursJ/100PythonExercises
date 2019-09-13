@@ -1473,7 +1473,7 @@ print r2.group(2)
 
 
 #----------------------------------------#
-Question:
+Question 58:
 
 Write a program which accepts a sequence of words separated by whitespace as input to print the words composed of digits only.
 
@@ -1499,7 +1499,7 @@ print re.findall("\d+",s)
 
 
 #----------------------------------------#
-Question:
+Question 59:
 
 
 Print a unicode string "hello world".
@@ -1514,6 +1514,7 @@ unicodeString = u"hello world!"
 print unicodeString
 
 #----------------------------------------#
+Q60
 Write a program to read an ASCII string and to convert it to a unicode string encoded by utf-8.
 
 Hints:
@@ -1527,7 +1528,7 @@ u = unicode( s ,"utf-8")
 print u
 
 #----------------------------------------#
-Question:
+Question 61:
 
 Write a special comment to indicate a Python source code file is in unicode.
 
@@ -1538,7 +1539,7 @@ Solution:
 # -*- coding: utf-8 -*-
 
 #----------------------------------------#
-Question:
+Question 62:
 
 Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).
 
@@ -1566,7 +1567,7 @@ print sum
 
 
 #----------------------------------------#
-Question:
+Question 63:
 
 Write a program to compute:
 
@@ -1602,7 +1603,7 @@ print f(n)
 
 #----------------------------------------#
 
-Question:
+Question 64:
 
 
 The Fibonacci Sequence is computed based on the following formula:
@@ -1644,7 +1645,7 @@ print f(n)
 
 #----------------------------------------#
 
-Question:
+Question 65:
 
 The Fibonacci Sequence is computed based on the following formula:
 
@@ -1686,7 +1687,7 @@ print ",".join(values)
 
 #----------------------------------------#
 
-Question:
+Question 66:
 
 Please write a program using generator to print the even numbers between 0 and n in comma separated form while n is input by console.
 
